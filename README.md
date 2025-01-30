@@ -150,5 +150,7 @@ GET /api/products - Recupera todos os produtos.
 POST /api/products - Cria um único produto.
 POST /api/products/bulk - Cria múltiplos produtos.
 GET /api/products/export - Exporta os produtos em um arquivo Excel.
-Licença
+
+
+### Licença
 Este projeto está sob a Licença MIT.
